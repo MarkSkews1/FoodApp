@@ -21,7 +21,7 @@ export default function Header() {
     <header id="main-header">
       <div id="title">
         <img src={logoImg} alt="A restaurant" />
-        <h1>ReactFood</h1>
+        <h1>Amazing Food</h1>
       </div>
       <nav>
         <Button textOnly={true} onClick={handleShowCart} >Cart ({totalCartItems})</Button>

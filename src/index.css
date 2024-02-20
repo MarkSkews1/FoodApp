@@ -132,6 +132,12 @@ h1 {
   color: #312c1d;
 }
 
+.center-loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .cart-total {
   display: flex;
   justify-content: flex-end;
